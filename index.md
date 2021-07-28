@@ -2,7 +2,7 @@
 
 Right now most of the information related to EStA is available on my site at [google site](https://sites.google.com/view/1009ukumars/code-development). Gradually all the information will be update on git-hub pages. 
 
-About EStA: [E]lectronic [St]ructure [A]nalyzer or pyware.
+### About EStA: Electronic Structure Analyzer or pyware.
 
 
 #=====================================================================#
