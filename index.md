@@ -1,6 +1,11 @@
 ## Documentation for the EStA
 
-Right now most of the information related to EStA is available on [google site](https://sites.google.com/view/1009ukumars/code-development)
+Right now most of the information related to EStA is available on my site at [google site](https://sites.google.com/view/1009ukumars/code-development). Gradually all the information will be update on git-hub pages. 
+
+About EStA: [E]lectronic [St]ructure [A]nalyzer or pyware.
+
+
+#=====================================================================#
 
 You can use the [editor on GitHub](https://github.com/skphy/etest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
