@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+`a = list [ 1, 2, 3, 4 ]`
+
 [Link](url) and ![Image](src)
 ```
 
